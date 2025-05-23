@@ -1,4 +1,4 @@
-# LG U+ 6기
+# LG U+ Why Not SW Camp 6기
 
 ## lab01
 - 교육기간 : 3/13 ~ 3/26
