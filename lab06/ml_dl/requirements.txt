@@ -23,3 +23,5 @@ pytorch-lightning
 pytorch-ignite
 portalocker
 torchtext
+streamlit
+scikit-optimize
