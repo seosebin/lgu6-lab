@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 lab06/ch12/celeba/
+**/.ipynb_checkpoints/
