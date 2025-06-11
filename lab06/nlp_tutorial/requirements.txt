@@ -1,0 +1,12 @@
+nltk
+matplotlib
+seaborn
+jupyterlab
+gensim
+scikit-learn
+pandas
+scipy
+# annoy
+requests
+transformers
+streamlit
