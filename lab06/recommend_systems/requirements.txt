@@ -1,0 +1,7 @@
+scikit-surprise
+numpy<2
+pandas
+matplotlib
+streamlit
+jupyterlab
+surprise
